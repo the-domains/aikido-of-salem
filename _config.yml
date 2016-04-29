@@ -1,0 +1,28 @@
+name: Aikido of Salem
+favicon: null
+layout_spectrum: 0.05379665829241276
+typography_spectrum: 0.8577049204614013
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.28327943524345756
+  lightness: 0.763897662749514
+  saturation: 0.933466290589422
+  rhythmicContrast: 0.4294241457246244
+purpose: []
