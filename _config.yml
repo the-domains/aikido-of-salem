@@ -1,6 +1,6 @@
 name: Aikido of Salem
 favicon: null
-layout_spectrum: 0.05379665829241276
+layout_spectrum: 0.16876
 typography_spectrum: 0.76472
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.28327943524345756
-  lightness: 0.763897662749514
-  saturation: 0.933466290589422
-  rhythmicContrast: 0.5
+  brandStrength: 0.0625
+  lightness: 1
+  saturation: 0.625
+  rhythmicContrast: 0.25
 purpose: []
